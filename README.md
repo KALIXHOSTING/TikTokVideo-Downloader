@@ -7,11 +7,21 @@ This is a TikTok video downloader script that allows users to download TikTok vi
 - Remove watermarks from downloaded TikTok videos.
 - Easy installation and setup on your own server.
 
+## Proof of Concept
+
+Below are screenshots showcasing the functionality of the TikTok Downloader:
+
+![Screenshot 1](https://cdn.noxhosting.io/storage/screenshot-2024-10-13-at-90701-pm.png)
+![Screenshot 2](https://cdn.noxhosting.io/storage/screenshot-2024-10-13-at-90730-pm.png)
+![Screenshot 3](https://cdn.noxhosting.io/storage/screenshot-2024-10-13-at-90804-pm.png)
+
+You can also try the live demo of this TikTok Downloader by visiting [this link](https://tiktok.noxhosting.io/).
+
 ## Installation
 
 ### 1. Download and Upload Files
 
-1. Download the latest release from the [Releases](https://github.com/your-github-repo/releases) section of this repository.
+1. Download the latest release from the [Releases](https://github.com/KALIXHOSTING/TikTokVideo-Downloader/releases) section of this repository.
 2. Upload the downloaded files to your server in the desired directory (e.g., `/var/www/html/tiktok-downloader`).
 
 ### 2. Install yt-dlp and FFmpeg
